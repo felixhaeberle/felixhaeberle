@@ -1,6 +1,6 @@
 # Hi nerds 👋
 
-I’m Felix, an 🏓  interaction designer and 👨‍💻 frontend developer. I’m dedicated to Open Source and Accessibility.
+I’m Felix, an 🏓  interaction designer and 👨‍💻 frontend developer. I’m dedicated to Open Source and i18n.
 
 **Currently:** Design Engineer @[inlang](https://github.com/inlang) – building the next generation of open source globalization infrastructure.
 
