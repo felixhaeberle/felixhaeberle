@@ -9,5 +9,5 @@ Thesis: [Stage](https://getstage.app) 🪩
 
 ---
 
-**Contact**: @[personal website](https://felixhaeberle.com) or @[x.com](https://x.com/felixhaberle)
-**Hop on a call**: @[cal.com](https://cal.com/felixhaberle/15min)
+**Contact**: [personal website](https://felixhaeberle.com) or [x.com](https://x.com/felixhaberle)
+**Hop on a call**: [cal.com](https://cal.com/felixhaberle/15min)
