@@ -10,5 +10,3 @@ Thesis: [Stage](https://getstage.app) 🪩
 ---
 
 **Contact**: [personal website](https://felixhaeberle.com) or [x.com](https://x.com/felixhaberle)
-
-📞 [cal.com](https://cal.com/felixhaberle/15min)
